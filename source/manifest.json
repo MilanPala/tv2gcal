@@ -1,7 +1,7 @@
 {
-	"name": "TV 2 ČSFD",
+	"name": "TV 2 Google Calendar",
 	"version": "1.0",
-	"description": "Zobrazuje odkaz v televizním programu tv.seznam.cz vedoucí na daný pořad na serveru ČSFD",
+	"description": "Zobrazuje odkaz v televizním programu tv.seznam.cz, který naplánuje událost do kalendáře Google",
 	"manifest_version": 2,
 	"content_scripts": [
 		{
